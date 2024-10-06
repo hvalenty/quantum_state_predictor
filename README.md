@@ -17,6 +17,6 @@ Spin is an intrinsic property of all fundamental particles, with this project fo
 Spin is also referred to as the spin angular momentum quantum number, and is quantized using the reduced Planck constant h/2pi (h-bar). This number can be either positive or negative 1/2 for our particles of interest. 
 
 ## Spin-1/2 Quantum States
-Just as a position vector in Cartesian 3-dimensional space can be written as components of the x, y, and z positions; similar methods are used for describing the state of a spin-1/2 particle. Quantum state vectors can be written in terms of the components of positive and negative spin, with a column vector in the form of (+, -). So, a positive spin-1/2 particle would have a vector represenatation of (1, 0), where the negative spin-1/2 is represenated by (0, 1). For example, a state vector can be written as the linear combination seen as: $$ \frac{1}{\sqrt{5}}(1, 0) + \frac{2}{\sqrt{5}}(0,1) $$. 
+Just as a position vector in Cartesian 3-dimensional space can be written as components of the x, y, and z positions; similar methods are used for describing the state of a spin-1/2 particle. Quantum state vectors can be written in terms of the components of positive and negative spin, with a column vector in the form of (+, -). So, a positive spin-1/2 particle would have a vector representation of (1, 0), where the negative spin-1/2 is represented by (0, 1). For example, a state vector can be written as the linear combination seen as: $ \frac{1}{\sqrt{5}}(1, 0) + \frac{2}{\sqrt{5}}(0,1) $. 
 
 # Rules of the Game
