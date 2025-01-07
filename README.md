@@ -12,7 +12,11 @@ Ultimately, our team (Rebecca Nelson, Duq '22 and myself) had to develop an algo
 *   When to guess and what state to guess
 
 ## Methods
-Bayesian Estimation
+Bayesian estimation with updating
+
+Having the goal to minimize the sample size and desiring the best guess possible lead us to Bayesian estimation. 
+
+Bayes theorem is infinitely useful to make distributed estimations and guide us to lean on guess probabilities. 
 
 ## Results
 We won!
